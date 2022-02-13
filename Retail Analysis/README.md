@@ -1,6 +1,6 @@
 # Retail Analysis
 
-Provide a visual analysis of Employee Satisfaction to show improvable areas.
+Provide a visual analysis of Retail to show overall sales and effects of Promotional Markdowns on future Sales.
 
 ## Main goals
 
