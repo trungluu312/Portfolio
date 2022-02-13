@@ -4,7 +4,7 @@ Give an overview of the current COVID 19 situation.
 
 ## Main
 
-  - Current world cases and death counts
+  - Current world cases, death counts and vaccinations
   - Overall vaccination data visualized
   - Comparision of situation in 3 countries Germany, Vietnam and USA
 
